@@ -15,7 +15,7 @@
 </p>
 
 <img
-  src="./.github/screenshot.png"
+  src="./.github/screenshot.gif"
   title="Screenshot of Filosinapsis Mathematics Algorithm Automation"
   alt="Screenshot of Filosinapsis Mathematics Algorithm Automation"
   align="center"
