@@ -34,7 +34,6 @@ for number in range(4, 301):
                 color = 'white'
                 size = 'big'
 
-                # Obteniendo datos...
                 topics[neuron_key_id] = {
                     'id': neuron_id,
                     'name': neuron_name,
@@ -77,11 +76,6 @@ for number in range(4, 301):
                     print('El tema => ', end='')
                     print(hypothesis_neuron, end=' --> ')
                     print(f'contiene... => {current_neuron}')
-
-                    # Obteniendo datos...
-
-
-
 
 
 print("Algoritmo Filosinapsis")
