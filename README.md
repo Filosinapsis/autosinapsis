@@ -1,4 +1,4 @@
-<h1 align="center">✍ Filosinapsis Mathematics Algorithm Automation 📓</h1>
+<h1 align="center">✍ AutoSinapsis 📓</h1>
 
 <p align="center">Intelligent algorithm that converts document data to JSON-readable</p>
 
@@ -16,8 +16,8 @@
 
 <img
   src="./.github/screenshot.gif"
-  title="Screenshot of Filosinapsis Mathematics Algorithm Automation"
-  alt="Screenshot of Filosinapsis Mathematics Algorithm Automation"
+  title="Screenshot of AutoSinapsis"
+  alt="Screenshot of AutoSinapsis"
   align="center"
 />
 
